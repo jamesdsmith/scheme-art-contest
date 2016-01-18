@@ -1,1 +1,1 @@
-![Cal Dente](http://art.cs61a.org/artwork/30.png)
+<img src="http://art.cs61a.org/artwork/30.png" alt="Cal Dente" width="400px" height="400px" />
