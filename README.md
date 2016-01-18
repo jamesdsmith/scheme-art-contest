@@ -1,0 +1,1 @@
+![Cal Dente](http://art.cs61a.org/artwork/30.png)
